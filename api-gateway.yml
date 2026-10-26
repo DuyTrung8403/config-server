@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: api-gateway
+
+
+app:
+    title: API Gateway
+    description: API Gateway for microservices
+    language: en
